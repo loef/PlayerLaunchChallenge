@@ -1,0 +1,5 @@
+name: PunchLaunch
+version: '${project.version}'
+main: com.loefars.punchlaunch.PunchLaunch
+api-version: '1.20'
+description: Minecraft Challenge Plugin, every time a player hits something or gets hit, they are launched in a random direction!
